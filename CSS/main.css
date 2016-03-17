@@ -1,0 +1,50 @@
+
+/* main decoration*/
+body{
+   background-color: #F0F4FF;
+   color: #6f6f6f;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+}
+
+/*header decoration */
+
+header{
+  border-bottom: medium solid #a3a3a3;
+  color:#a3a3a3;
+  font-family: 'Bree Serif', serif;
+}
+
+
+h1,h2{
+  color:#a3a3a3;
+  font-weight:normal;
+}
+
+#logo{
+  display:block;
+  float:left;
+  margin:15px 0 15px 30px;
+}
+
+
+nav a:hover{
+  color: #a3a3a3;
+}
+#wrapper{
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+#logo{
+  text-align: center;
+  margin: 0;
+}
+
+/*container decoration */
+
+
+/*footer decoration*/
