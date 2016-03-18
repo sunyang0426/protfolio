@@ -4,6 +4,9 @@ a{
   text-decoration: none;
 }
 
+body{
+  background-color: #EE6F6FF;
+}
 img{
   max-width: 100%;
 }
@@ -26,6 +29,9 @@ h1,h2{
   font-size: 2em;
 }
 
+nav{
+  margin:0 0 25px 0;
+}
 nav ul{
   list-style: none;
   margin:5px 10px;
@@ -95,4 +101,45 @@ footer{
   padding:5%;
   font-size:0.75em;
   color:#bdc3c7;
+}
+
+
+/* Page About.....................
+....................*/
+#headshot{
+  display:block;
+  margin:0 auto;
+  border-radius: 50%;
+}
+
+section{
+  max-width: 500px;
+  margin:0 auto;
+  font-family: 'Bree Serif', serif;
+  color:#2f2f2f;
+  font-size: 1em;
+}
+
+#wrapper a{
+  color: #2f2f2f;
+}
+
+#wrapper a:hover{
+  color: #a3a3a3;
+}
+
+
+/* Page multimedia.....................
+....................*/
+#multimedia{
+  max-width:1000px;
+}
+
+
+.transcribe h1{
+  font-size: 1.5em;
+}
+
+.transcribe p{
+  font-size: 1em;
 }
